@@ -1,27 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb556f7e-094a-4fd1-996a-a0eee05f053d" name="Changes" comment="" />
+    <list default="true" id="fb556f7e-094a-4fd1-996a-a0eee05f053d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.pretierrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/API/AlbumsApi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/music-card/music-card.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/music-card/music-card.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/albumList/albumList.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/albumList/albumList.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/playlist/playlist.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/playlist/playlist.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/record/record.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/record/record.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/album-slice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/redux-store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2BcZiOAYd6tZRi4rRW8mPToWeSH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/tavernamo/Desktop/Blix",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/tavernamo/Desktop/blix&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;/Users/tavernamo/Desktop/blix/node_modules/prettier&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.javascript.prettier&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/music-card" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -31,10 +93,48 @@
       <option name="presentableId" value="Default" />
       <updated>1657207459698</updated>
       <workItem from="1657207460777" duration="17000" />
+      <workItem from="1657207498053" duration="48000" />
+      <workItem from="1657207559530" duration="165000" />
+      <workItem from="1657207753266" duration="20000" />
+      <workItem from="1657207797947" duration="64000" />
+      <workItem from="1657207864155" duration="104000" />
+      <workItem from="1657207984997" duration="115000" />
+      <workItem from="1657208134177" duration="28000" />
+      <workItem from="1657208197877" duration="400000" />
+      <workItem from="1657208614316" duration="395000" />
+      <workItem from="1657209064866" duration="819000" />
+      <workItem from="1657209903959" duration="735000" />
+      <workItem from="1657210654150" duration="185000" />
+      <workItem from="1657210879477" duration="4730000" />
+      <workItem from="1657215631540" duration="1864000" />
+      <workItem from="1657264582908" duration="2000" />
+      <workItem from="1657264603252" duration="1000" />
+      <workItem from="1657357355173" duration="3841000" />
+      <workItem from="1657361249677" duration="439000" />
+      <workItem from="1657361711282" duration="16000" />
+      <workItem from="1657361740342" duration="20000" />
+      <workItem from="1657361787413" duration="67000" />
+      <workItem from="1657361871852" duration="128000" />
+      <workItem from="1657362012164" duration="1535000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

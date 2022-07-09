@@ -1,0 +1,26 @@
+.cardContainer{
+    display: flex;
+    background: #172B42 !important;
+    margin: 20px;
+    flex-direction: column;
+    height: max-content;
+    cursor: pointer;
+}
+.playerContainer{
+    display: flex;
+}
+.titleCard{
+    color:navajowhite ;
+}
+.cardContent{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.cardContainer:hover{
+    background: #193049 !important;
+}
+.navigationIcon{
+    color:navajowhite
+}
